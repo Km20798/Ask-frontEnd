@@ -1,0 +1,35 @@
+ul{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    border: 3px solid #d4cfcf;
+    margin-top: 1%;
+    border-radius: 7px;
+    background: transparent;
+    color: black;
+    padding: 0%;
+}
+li{
+    padding: 0%;
+    width: 100%;
+    border: none;
+    text-align: center;
+    background:#c3bdbd;
+}
+.active{
+    background: white;
+    color: black;
+}
+#list{
+    margin-left: 30%;
+}
+a{
+    color: gray;
+    font-size: 12px;
+}
+.active a{
+    color: gray;
+}
+a:hover{
+    text-decoration: none;
+}

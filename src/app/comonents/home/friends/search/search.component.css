@@ -1,0 +1,108 @@
+.main{
+    background: white;
+    padding: 5px 15px 25px;
+    width: 70%;
+    border-radius: 10px;
+}
+.nav{
+    margin-bottom: 5%;
+}
+ul{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    margin-top: 1%;
+    border-radius: 5px;
+    color: gray;
+    background-color: #f2f2f9;
+    border: 3px solid #f2f2f9;
+}
+li{
+    padding: .5%;
+    width: 100%;
+    border: none;
+    text-align: center;
+    background:#b2b2bb;
+}
+.active{
+    background: white;
+    color: red;
+}
+#list{
+    margin-left: 30%;
+}
+a{
+    color: white;
+}
+.active a{
+    color: gray;
+}
+a:hover{
+    text-decoration: none;
+}
+.sm{
+    margin-top: 3%;
+    width: 100%;
+}
+.fa-search{
+    position: absolute;
+    top: 31%;
+    left: 22%;
+}
+input{
+    padding-left:10% ;
+    padding: 5% 10%;
+}
+.fri{
+    margin-top: 4%;
+    display: flex;
+     padding-left: 0;
+     border: none;
+     background: white;
+}
+.fri li{
+    text-align: left;
+    background: white;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+}
+.fri label{
+    margin-left: 10%;
+    color: black;
+}
+.list{
+    display: flex;
+}
+.add{
+    margin-left: 52%;
+    margin-top: 15px;
+    background: white;
+}
+.name{
+    display: inline;
+    padding: 0;
+    margin-left:30px;
+    border: none;
+}
+.name li{
+    color: black;
+    
+}
+span{
+    font-size: 10px;
+    color: gray;
+}
+.btn{
+    color: #ee4c22;
+    padding: 5px;
+    border-radius: 40px;
+    width: 60px;
+    font-weight: bold;
+}
+.btn:hover{
+    background: #ee4c22;;
+    color: white;
+}

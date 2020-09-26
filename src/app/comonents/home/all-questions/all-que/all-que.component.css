@@ -1,0 +1,93 @@
+.work{
+    background: white;
+    border-radius: 5px;
+    padding: 3% 1%;
+}
+h5 span{
+    font-size: 11px;
+    color: gray;
+}
+.que h5{
+    float: left;
+    width: 60%;
+}
+.que button{
+    width: 40%;
+    background-color: #ee4c22;
+    color: #fff;
+    border: none;
+}
+.que button:hover{
+    background-color: #cd3710;
+}
+.delete{
+    background-color: #f2f2f9;
+    margin-top: 5%;
+    display: flex;
+    padding: 2% 5%;
+}
+.delete a{
+    font-size: 12px;
+    color: #b2b2bb;
+    text-decoration: none;
+}
+.delete a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.para{
+    font-size: 11px;
+    margin: 3% 5% ;
+    color: #b2b2bb;
+}
+.ques{
+    margin: 5%;
+    padding-bottom: 3%;
+    border-bottom: 6px solid #cac6c6;
+}
+.ques .question{
+    display: flex;
+}
+.question h4{
+    font-size: 17px;
+}
+.question a{
+    position: relative;
+    left: 30%;
+    top: -10px;
+    font-weight: bold;
+    font-size: 20px;
+    background: none;
+    border: none;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.answer{
+    margin-top: 3%;
+}
+.fa-question-circle{
+    color: #8aaf33;
+    font-size: 14px;
+}
+.time{
+    float: left;
+    width: 80%;
+}
+.answer .time span{
+    margin-left: 10px;
+    font-size: 11px;
+    color: #b2b2bb;
+    margin-top: -5x;
+}
+.answer .btn-success{
+    background: none;
+    border: none;
+    color: #ee4c22;
+}
+.answer .btn-success:hover{
+    background-color: #ee4c22;
+    border-color: #ee4c22;
+    color: #fff;
+    border-radius: 40px;
+}

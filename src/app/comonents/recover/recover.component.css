@@ -1,0 +1,66 @@
+.main{
+    background: #2b3237;
+    height: 92.8vh;
+    padding-top: 1% ;
+}
+.work{
+    height: 60%;
+    width: 35%;
+    margin-left: 35%;
+    background-color: white;
+    border-radius: 10px;
+    padding:20px 20px ;
+}
+.work span{
+    font-size: 12px;
+} 
+a{
+    text-decoration: none;
+    color: #ee1144;
+}
+.form{
+    margin-top: 5%;
+    
+}
+.select{
+    display: flex;
+}
+.submit{
+    width: 100%;
+    background: #ee1144;
+    border: none;
+}
+.submit:hover{
+    background: #be0e36;
+}
+.submit:focus{
+    width: 100%;
+    background: #ee1144;
+    border: none;
+    outline: none;
+}
+p{
+    margin-top: 3%;
+    font-size: 13px;
+}
+.media{
+    text-align: center;
+    margin-left: 40%;
+    color: gray;
+    margin-top: 10%;
+}
+label{
+    font-size: 13px;
+}
+.data{
+    padding-top: 5%;
+    text-align: center;
+    line-height: 10px;
+}
+.da{
+    margin-top: 10%;
+    line-height: 0px;
+}
+.da span{
+    color: #ee1144;
+}

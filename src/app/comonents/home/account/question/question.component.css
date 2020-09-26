@@ -1,0 +1,27 @@
+.work{
+    color: white;
+    border-radius: 10px;
+    width: 50%;
+    background: rgba(0,0,0,0.3);
+    padding: 1% ;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li i{
+    color: #FF643C;
+}
+#list{
+    margin-left: 15%;
+}
+label{
+    font-weight: bold;
+}
+.btn{
+    position: relative;
+    left: 80%;
+    width: 20%;
+    background-color: #FF643C;
+    border: none;
+}

@@ -1,0 +1,31 @@
+
+.data{
+    display: flex;
+}
+.img img{
+   width: 100px;
+   height: 100px;
+   border-radius: 50px;
+}
+.img{
+    margin-right: 5%;
+}
+.info{
+    margin-top: 0%;
+}
+.fa-fire{
+    color: #ec0e0e;
+    font-size: 25px;
+}
+label{
+    color: white;
+}
+.drop{
+    color: white;
+}
+.btn1{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -10px;
+}

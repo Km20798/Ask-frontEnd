@@ -1,0 +1,14 @@
+.main{
+    background: #2b3237;
+    min-height: 90.5vh;
+    padding-top: 1% ;
+    display: flex;
+}
+.work{
+    margin-left: 15%;
+}
+.side{
+    position: fixed;
+    left: 65%;
+    width: 25%;
+}

@@ -1,0 +1,17 @@
+.main{
+    background-image: url("../../../../assets/personalProfile.png");
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    min-height: 90vh;
+    color: white;
+}
+.page{
+    background:  #00000061;
+    width: 100%;
+    padding: 5% 20%;
+    display: flex;
+}
+.works{
+    width: 100%;
+}

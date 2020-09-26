@@ -1,0 +1,18 @@
+.work{
+    margin-top: 0%;
+    color: white;
+    border-radius: 10px;
+    width: 60%;
+    background: rgb(0 0 0 / 62%);
+    padding: 1% 2%;
+}
+.work h5{
+    margin-bottom: 5%;
+}
+.btn{
+    position: relative;
+    left: 80%;
+    width: 20%;
+    background-color: #FF643C;
+    border: none;
+}

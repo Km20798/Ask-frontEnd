@@ -1,0 +1,43 @@
+.main{
+    width: 100%;
+    padding-top: 9%;
+    text-align: center;
+    color: white;
+    height: 70vh;
+    background-image: url("../../../assets/background.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+.main .logo img{
+    width: 10%;
+    margin-bottom: 3%;
+}
+.logo{
+    font-size: 15px;
+}
+.main .logo  strong  {
+    font-size: 15px;
+    line-height: -0px;
+}
+.btns{
+    margin-top: 2%;
+}
+.btn{
+    width: 25%;
+}
+.light{
+    margin-bottom: 1%;
+    background-color: white;
+    color: gray;
+}
+.btn:hover{
+    background: none;
+    color: white;
+}
+.light:hover{
+    background: white;
+    color: gray;
+}
+.btn:focus{
+    outline: none;
+}

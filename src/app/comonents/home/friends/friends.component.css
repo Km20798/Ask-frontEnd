@@ -1,0 +1,15 @@
+.main{
+    min-height: 92.9vh;
+    background-color: #2b3237;
+    display: flex;
+}
+.work{
+    padding: 5% 20%;
+    width: 100%;
+}
+.footer{
+    position: absolute;
+    left: 65%;
+    top: 60%;
+    width: 25%;
+}
